@@ -64,7 +64,7 @@ function ListData() {
     dispatch(deleteItem(id));
   };
   return (
-    <Box sx={{ paddingTop: "75px" }}>
+    <Box sx={{ paddingTop: "25px" }}>
       {list.map((item, index) => (
         <Box
           key={index}
