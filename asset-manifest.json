@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/social-insurance-calculation/static/css/main.53f6acc3.css",
+    "main.js": "/social-insurance-calculation/static/js/main.1e8b0093.js",
+    "static/js/787.28cb0dcd.chunk.js": "/social-insurance-calculation/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/social-insurance-calculation/index.html",
+    "main.53f6acc3.css.map": "/social-insurance-calculation/static/css/main.53f6acc3.css.map",
+    "main.1e8b0093.js.map": "/social-insurance-calculation/static/js/main.1e8b0093.js.map",
+    "787.28cb0dcd.chunk.js.map": "/social-insurance-calculation/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f6acc3.css",
+    "static/js/main.1e8b0093.js"
+  ]
+}
