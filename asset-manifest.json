@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/social-insurance-calculation/static/css/main.53f6acc3.css",
-    "main.js": "/social-insurance-calculation/static/js/main.1e8b0093.js",
-    "static/js/787.28cb0dcd.chunk.js": "/social-insurance-calculation/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/social-insurance-calculation/index.html",
-    "main.53f6acc3.css.map": "/social-insurance-calculation/static/css/main.53f6acc3.css.map",
-    "main.1e8b0093.js.map": "/social-insurance-calculation/static/js/main.1e8b0093.js.map",
-    "787.28cb0dcd.chunk.js.map": "/social-insurance-calculation/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/insurance/static/css/main.53f6acc3.css",
+    "main.js": "/insurance/static/js/main.9c557312.js",
+    "static/js/787.28cb0dcd.chunk.js": "/insurance/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/insurance/index.html",
+    "main.53f6acc3.css.map": "/insurance/static/css/main.53f6acc3.css.map",
+    "main.9c557312.js.map": "/insurance/static/js/main.9c557312.js.map",
+    "787.28cb0dcd.chunk.js.map": "/insurance/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.53f6acc3.css",
-    "static/js/main.1e8b0093.js"
+    "static/js/main.9c557312.js"
   ]
 }
